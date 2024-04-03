@@ -35,7 +35,6 @@
 
 <p> Install dependencies </p>
 
-<hr>
 
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> flutter install</pre></div>
 
@@ -44,7 +43,7 @@
 <p> Start development server </p>
 
 
-<br>
+
 
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> flutter run</pre></div>
 
